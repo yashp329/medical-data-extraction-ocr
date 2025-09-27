@@ -42,5 +42,3 @@ The extracted data is tested, validated, and made ready for downstream applicati
 
 ---
 
-## 📂 Project Structure  
-
